@@ -1,0 +1,1 @@
+These are some homework projects from my class on HTML5, in Telerik Software Academy. They cover the basics like: tables, lists, forms, semantic web etc.
